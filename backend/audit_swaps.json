@@ -1,0 +1,21 @@
+{
+  "threshold": 0.05,
+  "note": "Illustrative starter pairs. Extend with terms reviewed for your jurisdiction and languages. A swap is applied in both directions, so each pair should be 1-to-1.",
+  "attributes": {
+    "gender": {
+      "pairs": [["he", "she"], ["his", "her"], ["husband", "wife"], ["son", "daughter"], ["mr", "mrs"]]
+    },
+    "religion": {
+      "pairs": [["Ramesh", "Rahim"], ["Lakshmi", "Fatima"], ["Suresh", "Joseph"]]
+    },
+    "caste": {
+      "pairs": []
+    },
+    "region": {
+      "pairs": [["Hyderabad", "Chennai"], ["Eluru", "Madurai"], ["Mumbai", "Kolkata"]]
+    },
+    "name_script": {
+      "pairs": [["Ramesh", "రమేష్"], ["Lakshmi", "லக்ஷ்மி"], ["Suresh", "सुरेश"]]
+    }
+  }
+}
